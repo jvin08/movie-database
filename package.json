@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv-webpack": "^8.0.1",
+    "ejs": "^3.1.9"
+  }
+}
